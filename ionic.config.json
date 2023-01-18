@@ -1,0 +1,7 @@
+{
+  "name": "httpCall",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
